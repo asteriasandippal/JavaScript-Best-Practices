@@ -1,2 +1,2 @@
-#JavaScript Best Practices
+# JavaScript Best Practices
 
